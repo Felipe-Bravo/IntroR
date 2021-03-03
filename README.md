@@ -17,6 +17,8 @@ Los estudiantes deben tener instalado [R](https://cran.r-project.org/)  y [RStud
 ### Páginas con herramientas
 
 - [MIT Statistical Cheat Sheet](http://web.mit.edu/~csvoss/Public/usabo/stats_handout.pdf)
-- [Basic cheat sheet](https://campusvirtual.uva.es/pluginfile.php/1412900/mod_resource/content/1/base-r.pdf)
-- [R Programming Cheat Sheet (just the basics)](https://campusvirtual.uva.es/pluginfile.php/1412901/mod_resource/content/1/basicR.pdf)
+- [Basic cheat sheet](http://github.com/rstudio/cheatsheets/raw/master/base-r.pdf)
+- [R Programming Cheat Sheet (just the basics)](http://datasciencefree.com/basicR.pdf)
+- [R Programming Cheat Sheet (advanced)](http://datasciencefree.com/advancedR.pdf)
+- [RStudio Cheat Sheets](https://rstudio.com/resources/cheatsheets/)
 - [Regresión lineal en R](https://www.usabart.nl/eval/cs-regression.pdf)
