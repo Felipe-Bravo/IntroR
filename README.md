@@ -11,6 +11,7 @@ Los estudiantes deben tener instalado [R](https://cran.r-project.org/)  y [RStud
 - [Bravo et al, 2015 Análisis de datos selvícolas con R](https://uvadoc.uva.es/handle/10324/11889)
 - [Hastie, T., Tibshirani, R., Friedman, J. 2017 The Elements of Statistical Learning Data Mining, Inference, and Prediction](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [James, G., Witten, D, Hastie, T., Tibshirani, R. 2017 An introduction to statistical learning with applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+- [James, G., Witten, D, Hastie, T., Tibshirani, R. 2017 An introduction to statistical learning with applications in R. 2nd Edition](https://www.statlearning.com/)
 - [Lovelace, R., Cheshire, J., Oldroyd, R. et al. 2016 Introduction to visualising spatial data in R](https://cran.r-project.org/doc/contrib/intro-spatial-rl.pdf)
 - [Robinson, A. 2016 icebreakeR](https://cran.r-project.org/doc/contrib/Robinson-icebreaker.pdf)
 
